@@ -1,0 +1,6 @@
+# ninja log v6
+1	213	1739026800937381160	CMakeFiles/Design_Pattern.dir/DP_library/Builder_lol.cpp.o	e103acfb8e0ed170
+0	259	1739026902025624125	CMakeFiles/Design_Pattern.dir/main.cpp.o	ca0f83a0b369d23
+260	288	1739026902285624728	Design_Pattern	9cbf9ada0a1f93e
+1	9	1739029705173235418	build.ninja	cd59700274176344
+0	5	1739021265489538197	CMakeFiles/Design_Pattern.dir/Builder_lol.cpp.o	584f790d3600a7bf
